@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<begin>
+<Multchoice A="Berlin" B="Paris" C="London" D="Kopenhagen" Right="A">What is the capital of Germany?</Multchoice>
+</begin>

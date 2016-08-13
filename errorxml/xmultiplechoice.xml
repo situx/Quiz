@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<begin>
+<Multchoice A="Berlin" B="Paris" C="London" D="Kopenhagen" Right="A">Wie heisst die Hauptstadt von Deutschland?</Multchoice>
+<Multchoice A="Kiefer" B="Fuß" C="Hüfte" D="Ohr" Right="D">Wo hat der Mensch einen Steigbügel?</Multchoice>
+<Multchoice A="Lindenblüten" B="Isländisch Moos" C="Melisse" D="Kamille" Right="A">
+Welche Heilpflanze wirkt schweißtreibend bei Erkältungen?</Multchoice>
+<Multchoice A="Romeo und Julia" B="Hamlet" C="Götz von Berlichingen" D="Don Carlos" Right="B">
+Aus welchem Theaterstück stammt das Zitat: "Sein oder nicht sein, das ist hier die Frage!"?</Multchoice>
+<Multchoice A="Intelligente Technik" B="Internationale Telekommunikation" C="Internationale Truppe" D="Informationstechnologie" Right="D">
+Was bedeutet die Abkürzung IT?</Multchoice>
+<Multchoice A="Juri Gagarin" B="Edwin Aldrin" C="Neil Armstrong" D="Ulf Merbold" Right="C">
+Wer war der erste Mensch auf dem Mond?</Multchoice>
+<Multchoice A="Sommer" B="Winter" C="Herbst" D="Frühling" Right="B">Welche Jahreszeit ist in Australien wenn in Europa Sommer ist?</Multchoice>
+<Multchoice A="Fictiorama" B="Futuristic" C="Futurama" D="Future Fantastic" Right="C">Wie heisst die zweite Zeichentrickserie des Simpsonsschöpfers Matt Groening?</Multchoice>
+<Multchoice A="Erich Honecker" B="Udo Lindenberg" C="Egon Krenz" D="Lothar de Maizière" Right="D">Wer war der letzte Staatschef der DDR?</Multchoice>
+<Multchoice A="Eros" B="Hermes" C="Ganymed" D="Herakles" Right="B">Wer wird in der griechischen Mythologie als Götterbote bezeichnet?</Multchoice>
+<Multchoice A="Papstkrone" B="Wortschwall" C="Insekt" D="Eiskunstlauffigur" Right="B">Was ist eine Tirade?</Multchoice>
+<Multchoice A="Heiner Müller" B="Günter Grass" C="Albert Camus" D="Ernest Hemingway" Right="A">Welcher der folgenden Schriftsteller erhielt nie einen Nobelpreis?</Multchoice>
+<Multchoice A="bei Indien" B="bei Australien" C="bei Mittelamerika" D="bei Schottland" Right="C">Wo liegen die Westindischen Inseln?</Multchoice>
+<Multchoice A="weiblicher Vorname" B="Schlaginstrument" C="Aprikose" D="grasartige Pflanze" Right="C">Was ist eine Marille?</Multchoice>
+<Multchoice A="Chloroform" B="Kohlenmonoxid" C="Karotin" D="Chlorophyl" Right="D">Welcher Stoff macht Pflanzen grün?</Multchoice>
+<Multchoice A="Erdanziehungskraft" B="Schwerkraft" C="Zentrifugalkraft" D="Zentripedalkraft" Right="C">Wie heisst die Kraft, die bei einer Drehbewegung nach außen zieht?</Multchoice>
+<Multchoice A="1904" B="1918" C="1927" D="1933" Right="C">Wann wurde der Atlanktik das erste Mal überflogen?</Multchoice>
+<Multchoice A="Hannibal" B="Terminator II" C="Alien" D="Gladiator" Right="B">In welchem Film führte Ridley Scott nicht Regie?</Multchoice>
+<Multchoice A="Explorer" B="Tiros" C="Sputnik" D="Laika" Right="C">Wie heisst der erste Satellit, der in die Erdumlaufbahn geschossen wurde?</Multchoice>
+<Multchoice A="Philologe" B="Philosoph" C="Philatelist" D="Philantrop" Right="B">Wie nennt man jemanden der nach dem letzten Sinn des Seins fragt?</Multchoice>
+<Multchoice A="...freund" B="...angst" C="..feind" D="...glück" Right="A">Was bedeutet die Silbe "phil" in Worten?</Multchoice>
+<Multchoice A="Drache" B="Vogel" C="Einhorn" D="Bär" Right="B">Welche Art von Tier ist der sagenumwobene Phönix?</Multchoice>
+<Multchoice A="Taj Mahal" B="Empire State Building" C="Chinesische Mauer" D="Kreml" Right="C">Welches Bauwerk der Erde kann man mit bloßem Auge vom Mond aus sehen?</Multchoice>
+<Multchoice A="Hercule Poirot" B="Inspector Clouseau" C="Lord Peter Wimsey" D="Inspector Linley" Right="A">Welche Romanfigur erschuf Agatha Christie?</Multchoice>
+<Multchoice A="ca. 10000" B="ca. 25000" C="ca. 50000" D="ca. 100000" Right="B">Schätzen Sie:\nWie viele Körperhaare hat ein durchschnittlich behaarter Mensch (ohne Kopfhaar)?</Multchoice>
+<Multchoice A="Brad Pitt" B="Tom Cruise" C="Antonio Banderas" D="Keanu Reeves" Right="B">Wer spielt in "Interview mit einem Vampir" den Lestat?</Multchoice>
+<Multchoice A="Trüffel" B="Satansröhrling" C="Seitling" D="Feuerblüter" Right="D">Was ist kein Pilz?</Multchoice>
+<Multchoice A="weißer Riese" B="weißer Zwerg" C="roter Riese" D="roter Zwerg" Right="C">Wie nennt man einen Stern, kurz vor seinem Erlöschen?</Multchoice>
+<Multchoice A="...Karren" B="...Karree" C="...mer auf und ab" D="...mer wieder auf die Füße" Right="B">Wie lautet der Ausdruck: "Jemand springt im...?</Multchoice>
+<Multchoice A="Aldous Huxley" B="Stanislaw Lem" C="H.G. Wells" D="George Orwell" Right="D">Wer schrieb den Science Fiction Roman "1984"?</Multchoice>
+<Multchoice A="Strauß" B="Beethoven" C="Mozart" D="Schubert" Right="C">Wer komponierte das Stück "Eine kleine Nachtmusik"?</Multchoice>
+<Multchoice A="Taubensorte" B="Dachaufbau" C="Balkonform" D="Musikinstrument" Right="B">Was ist eine Gaupe?</Multchoice>
+<Multchoice A="Gebrüder Montgolfier" B="Marx Brothers" C="Warner Brothers" D="Gebrüder Wright" Right="A">Wer erfand den Heißluftballon?</Multchoice>
+<Multchoice A="-70°C" B="-60°C" C="-50°C" D="-40°C" Right="A">Wie tief kann die Temperatur in der Antarktis ungefähr fallen?</Multchoice>
+<Multchoice A="eine Boxtechnik" B="ein Brettspiel" C="eine Gebäudeform" D="eine Papiersorte" Right="B">Was ist Gobang?</Multchoice>
+<Multchoice A="Emergency Room" B="Alphateam" C="Die Nanny" D="Chicago Hope" Right="C">Welche der folgenden Sendungen ist keine Krankenhausserie?</Multchoice>
+<Multchoice A="ca. 10g" B="ca. 50g" C="ca. 80g" D="ca. 100g" Right="C">Schätzen Sie: Wie groß ist in etwa die Tragfähigkeit eines einzelnen Kopfhaares?</Multchoice>
+<Multchoice A="Wettessen" B="Wandmalerei" C="Cocktail" D="Massagetechnik" Right="B">Was ist ein Fresko?</Multchoice>
+<Multchoice A="eine Kartoffelsorte" B="eine Hautkrankheit" C="eine Mangelerscheinung" D="ein spanisches Gericht" Right="C">Was ist Pellagra?</Multchoice>
+<Multchoice A="Chinesische Mauer" B="Pyramiden" C="Hängende Gärten" D="Koloss von Rhodos" Right="A">Was gehört nicht zu den 7 Weltwundern?</Multchoice>
+<Multchoice A="Hänsel und Gretel" B="Faust" C="Maria Stuart" D="Wilhelm Tell" Right="B">In welchem Stück wird eine sogenannte "Gretchenfrage" gestellt?</Multchoice>
+<Multchoice A="Ronald Reagan" B="Bill Clinton" C="Jimmy Carter" D="John F. Kennedy" Right="D">Mit welchem berühmten Mann war Jackie O. verheiratet?</Multchoice>
+<Multchoice A="ein trockener Wüstensturm" B="ein chinesischer Ritter" C="ein arabischer Mantel" D="ein asiatischer Gelehrter" Right="A">Was ist ein Samum?</Multchoice>
+<Multchoice A="Ringo Starr" B="George Harrison" C="Pete Townsend" D="Paul McCartney" Right="C">Welche der folgenden Personen war nicht Mitglied der "Beatles"?</Multchoice>
+<Multchoice A="Phönizische Schriftzeichen" B="Computerschriftart" C="mittelalterliche Geheimschrift" D="Blindenschrift" Right="D">Was ist "Braille-Schrift"?</Multchoice>
+<Multchoice A="Pangäa" B="Panama" C="Pandora" D="Paphos" Right="A">Wie wird der Urkontinent genannt?</Multchoice>
+<Multchoice A="Ararat" B="Nanga Parbat" C="Fudschijama" D="Mount Everest" Right="D">Wie heisst der höchste Berg Asiens?</Multchoice>
+<Multchoice A="im 19. Jahrhundert" B="im 18. Jahrhundert" C="im 17. Jahrhundert" D="im 15. Jahrhundert" Right="B">Wann wurde der erste Zirkus eröffnet?</Multchoice>
+<Multchoice A="Kirchenspaltung" B="Psychose" C="rituelle Beschneidung" D="Edelmetall" Right="A">Was ist ein Schisma?</Multchoice>
+<Multchoice A="Forget Paris" B="Der Mann in der eisernen Maske" C="Die schwarze Tulpe" D="Der Kontakt des Zeichners" Right="B">In welchem Film spielt Leonardo DiCaprio den französischen Sonnenkönig?</Multchoice>
+<Multchoice A="Ivan Carolus Damian" B="Issur Danielowitsch Demskij" C="Igor Karol Dorowicz" D="Issur Chaim Dobrowski" Right="B">Wie lautet der bürgerliche Name des Schauspielers Kirk Douglas?</Multchoice>
+</begin>

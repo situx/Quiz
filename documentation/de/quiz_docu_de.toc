@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}Einleitung}{1}{section.2}
+\contentsline {section}{\numberline {2}Ziele und Features}{1}{section.3}
+\contentsline {subsection}{\numberline {2.1}2 Spieler Modus}{2}{subsection.4}
+\contentsline {subsection}{\numberline {2.2}Einstellungen}{2}{subsection.5}
+\contentsline {section}{\numberline {3}Programmarchitektur}{2}{section.6}
+\contentsline {section}{\numberline {4}Fehlerbehandlung}{5}{section.8}
+\contentsline {section}{\numberline {5}Anmerkungen und Erweiterungen}{5}{section.13}

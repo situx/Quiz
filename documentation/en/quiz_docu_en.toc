@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.2}
+\contentsline {section}{\numberline {2}Goals and Features}{1}{section.3}
+\contentsline {subsection}{\numberline {2.1}2 Player Mode}{2}{subsection.4}
+\contentsline {subsection}{\numberline {2.2}Settings}{2}{subsection.5}
+\contentsline {section}{\numberline {3}Platform Architecture}{2}{section.6}
+\contentsline {section}{\numberline {4}Error Handling}{4}{section.8}
+\contentsline {section}{\numberline {5}Known Issues and further extensions}{5}{section.13}
