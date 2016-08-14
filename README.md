@@ -1,5 +1,5 @@
 # Quiz
-Quiz game written in C++ supporting
+Quiz game written in C++ and Qt5 supporting
 - Freetext questions
 - Multiple Choice Questions
 - Questions with an image
